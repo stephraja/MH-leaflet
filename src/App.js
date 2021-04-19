@@ -1,9 +1,6 @@
 import LeafletMap from './components/LeafletMap'
 
 import "./App.css"
-import "leaflet/dist/leaflet.css"
-import 'antd/dist/antd.css'
-
 
 const App = () => {
   const beginPoints = [
